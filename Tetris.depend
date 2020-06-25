@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\main.c
+	"BibliotecaTetris.h"
+
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\testes.c
+	"BibliotecaTetris.h"
+
+1560898044 c:\users\bruno\desktop\prog eu\tetris\basetetris.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1560898741 c:\users\bruno\desktop\prog eu\tetris\bibliotecatetris.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\movimento.c
+	"BibliotecaTetris.h"
+
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\desenho.c
+	"BibliotecaTetris.h"
+
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\girando.c
+	"BibliotecaTetris.h"
+
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\print.c
+	"BibliotecaTetris.h"
+
+1560899352 source:c:\users\bruno\desktop\prog eu\tetris\sorteio.c
+	"BibliotecaTetris.h"
+
